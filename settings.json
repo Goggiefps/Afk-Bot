@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "BorobhaiMizanbhaiBor.aternos.me:54726",
+    "port": 54726,
     "version": "1.19.3"
   },
 
